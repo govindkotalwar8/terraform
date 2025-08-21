@@ -1,4 +1,4 @@
 resource "local_file" "test_1" {
 filename = "/root/test.txt"
-content = "My second test file"
+content = "My third test file"
 }
